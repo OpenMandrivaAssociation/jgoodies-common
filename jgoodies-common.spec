@@ -7,7 +7,7 @@ Summary:        Common library shared by JGoodies libraries and applications
 
 Group:          Development/Java
 License:        BSD
-URL:            http://www.jgoodies.com/
+URL:            https://www.jgoodies.com/
 Source0:        http://www.jgoodies.com/download/libraries/%{shortname}/%{name}-%(tr "." "_" <<<%{version}).zip
 
 BuildRequires:  java-devel
