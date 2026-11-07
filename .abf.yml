@@ -1,2 +1,4 @@
-sources:
+removed_sources:
   jgoodies-common-1_8_0.zip: 066510bd6fcc2bcf57b57b59f99d58676adb0355
+sources:
+  jgoodies-common-1.8.1.zip: 81b2aa328f839c1d6f94b4c9ee4cdcea5abbb378
